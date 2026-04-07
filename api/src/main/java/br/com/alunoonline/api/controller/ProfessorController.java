@@ -42,7 +42,7 @@ public class ProfessorController {
 
     @PutMapping("/{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
-    public void atualizarProdessorPorId(@PathVariable long id, @RequestBody Professor professorAtualizado){
-        professorService.atualizaProfessorPorId(id,professorAtualizado);
+    public void atualizarProfessorPorId(@PathVariable long id, @RequestBody Professor professorAtualizado){
+        professorService.atualizarProfessorPorId(id,professorAtualizado);
     }
 }

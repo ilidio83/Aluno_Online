@@ -31,7 +31,7 @@ public class ProfessorService {
         professorRepository.deleteById(id);
     }
 
-    public void atualizaProfessorPorId(long id, Professor professorAtualizado){
+    public void atualizarProfessorPorId(long id, Professor professorAtualizado){
         professorAtualizado.setId(id);
         professorRepository.save(professorAtualizado);
     }
