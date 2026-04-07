@@ -650,3 +650,25 @@ A estrutura observada é adequada para pequenos sistemas e demonstra corretament
 - `AlunoService.class`
 - `ProfessorService.class`
 
+---
+
+## 14. Prints das requisições no Insomnia e tabelas no DBeaver
+
+Insomnia:
+
+<img width="1869" height="589" alt="Captura de tela 2026-04-06 121945" src="https://github.com/user-attachments/assets/0688070f-05da-44c7-aae5-8b052f7c84cd" />
+
+---
+
+DBeaver:
+
+<img width="885" height="222" alt="Captura de tela 2026-04-07 161112" src="https://github.com/user-attachments/assets/eec7099b-9406-440a-bc09-b39c593ffae8" />
+
+---
+
+<img width="758" height="193" alt="Captura de tela 2026-04-07 161059" src="https://github.com/user-attachments/assets/bfb0dd3a-dae2-4113-9a36-b6fe9c08623d" />
+
+---
+
+
+
