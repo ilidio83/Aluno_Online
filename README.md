@@ -660,6 +660,10 @@ Insomnia:
 
 ---
 
+<img width="1296" height="595" alt="Captura de tela 2026-05-26 120513" src="https://github.com/user-attachments/assets/11c2d43d-70cc-4d2b-873f-ce71415dd361" />
+
+---
+
 DBeaver:
 
 <img width="885" height="222" alt="Captura de tela 2026-04-07 161112" src="https://github.com/user-attachments/assets/eec7099b-9406-440a-bc09-b39c593ffae8" />
@@ -669,6 +673,8 @@ DBeaver:
 <img width="758" height="193" alt="Captura de tela 2026-04-07 161059" src="https://github.com/user-attachments/assets/bfb0dd3a-dae2-4113-9a36-b6fe9c08623d" />
 
 ---
+
+<img width="1285" height="390" alt="Captura de tela 2026-05-26 120448" src="https://github.com/user-attachments/assets/460aee75-5d46-46dc-8ccb-103720a4f5da" />
 
 
 
