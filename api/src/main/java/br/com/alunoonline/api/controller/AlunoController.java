@@ -1,5 +1,6 @@
 package br.com.alunoonline.api.controller;
 
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import br.com.alunoonline.api.model.Aluno;
 import br.com.alunoonline.api.service.AlunoService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,6 +11,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
+@SecurityRequirement(name = "bearer-key")
 @RequestMapping("/alunos")
 public class AlunoController {
 
